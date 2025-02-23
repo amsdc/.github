@@ -1,4 +1,5 @@
-All projects are currently being moved out of this organization.
+All projects have been removed from this organization. This does not mean
+they have been deleted.
 
 As believers in open-source, we believe in using opensource tools to manage
 our code. GitHub does not meet this requirement, hence we are shifting away
