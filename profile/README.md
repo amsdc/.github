@@ -14,7 +14,7 @@ obtained from internet archives.
 
 Repositories which were used for team projects (both high school and
 college) are available in both source code and Git repository form. 
-If the souce code for a team project is not available on Ad's website,
+If the source code for a team project is not available on Ad's website,
 it is likely that it is not allowed to share the code for the project
 publicily due to copyright laws. With those terms in mind, the source code
 can be shared for personal use only - redistributing this source code
